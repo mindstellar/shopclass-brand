@@ -1,0 +1,16 @@
+[
+  {"id": "shop",  "font": "Manrope.ttf", "axes": {"wght": 800}, "text": "Shop",  "size": 100},
+  {"id": "class", "font": "Manrope.ttf", "axes": {"wght": 800}, "text": "Class", "size": 100},
+  {"id": "spec_heading",  "font": "Manrope.ttf", "axes": {"wght": 800}, "text": "Rounded neo-grotesk", "size": 100},
+  {"id": "spec_chars",    "font": "Manrope.ttf", "axes": {"wght": 600}, "text": "A-Z a-z 0-789", "size": 100},
+  {"id": "spec_h_label",  "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "Heading", "size": 100},
+  {"id": "spec_b_label",  "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "Body type", "size": 100},
+  {"id": "spec_body",     "font": "Inter.ttf", "axes": {"wght": 400, "opsz": 14}, "text": "Open-source classifieds, by Mindstellar", "size": 100},
+  {"id": "lbl_primary", "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "PRIMARY LARGE LOGO", "size": 100, "tracking": 8},
+  {"id": "lbl_short",   "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "SHORT LOGO", "size": 100, "tracking": 8},
+  {"id": "lbl_favicon", "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "FAVICON & APP ICON", "size": 100, "tracking": 8},
+  {"id": "lbl_typo",    "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "TYPOGRAPHY SPECIMEN", "size": 100, "tracking": 8},
+  {"id": "px16", "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "16px", "size": 100},
+  {"id": "px32", "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "32px", "size": 100},
+  {"id": "px48", "font": "Inter.ttf", "axes": {"wght": 500, "opsz": 14}, "text": "48px", "size": 100}
+]
