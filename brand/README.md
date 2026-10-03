@@ -13,6 +13,17 @@ labels are converted to outlines), and safe to scale to any size.
 | `shopclass-icon-mono.svg` | Mark only, monochrome all-navy |
 | `shopclass-board.svg` | 1920x1080 brand-guidelines board (all four sections) |
 
+## png/
+
+Transparent PNG exports of the SVGs above, for places that can't use SVG.
+
+| File | Size |
+|---|---|
+| `shopclass-logo{,-mono}@{1,2,4}x.png` | 613x120, 1226x240, 2452x480 |
+| `shopclass-logo-compact{,-mono}@{1,2,4}x.png` | 434x88, 868x176, 1736x352 |
+| `shopclass-icon{,-mono}-{256,512,1024}.png` | Square, mark only |
+| `shopclass-board.png` | 1920x1080 brand board |
+
 ## favicon/
 
 | File | Use |
