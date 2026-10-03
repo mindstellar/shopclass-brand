@@ -1,17 +1,17 @@
 # ShopClass Brand
 
-Brand identity assets for **ShopClass** — open-source classifieds, by
+Brand identity assets for **ShopClass**, open-source classifieds by
 [Mindstellar](https://github.com/mindstellar).
 
 ![ShopClass brand board](brand/shopclass-board.svg)
 
 ## Contents
 
-- [`brand/`](brand) — logos (color + all-navy monochrome), standalone mark,
+- [`brand/`](brand): logos (color + all-navy monochrome), standalone mark,
   favicon set with web manifest, and the brand-guidelines board. All pure SVG
   with text converted to outlines; see [`brand/README.md`](brand/README.md)
   for the full file list, palette, and usage snippets.
-- [`tools/`](tools) — Python scripts that generate the SVGs, so assets can be
+- [`tools/`](tools): Python scripts that generate the SVGs, so assets can be
   rebuilt or tweaked from source.
 
 ## Palette
@@ -27,7 +27,7 @@ Brand identity assets for **ShopClass** — open-source classifieds, by
 ## License
 
 - **Brand assets** (`brand/`):
-  [CC BY-ND 4.0](brand/LICENSE) — share and use with attribution; please don't
+  [CC BY-ND 4.0](brand/LICENSE): share and use with attribution; please don't
   modify the logos or create derivative marks. The "ShopClass" name and logo
   identify the ShopClass project and shouldn't be used to imply endorsement.
 - **Build tooling** (`tools/`): [MIT](tools/LICENSE).
